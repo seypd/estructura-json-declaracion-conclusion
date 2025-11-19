@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "COMPLETA",
-		"tipo": "CONCLUSION",
+		"tipo": "CONCLUSION", //CONCLUSION ó CONCLUSIÓN
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -1073,4 +1073,5 @@
 		  "presento": false
 		}
 	}
+
 }
