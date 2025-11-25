@@ -830,7 +830,24 @@
 									},
 									"codigoPostal": "00000"
 								}
-							}
+							},
+							"vehiculo": {
+	                            "tipo": {
+	                                "clave": "",
+	                                "valor": ""
+	                            },
+	                            "marca": "",
+	                            "modelo": "",
+	                            "anio": 0000,
+	                            "numeroSerieRegistro": "",
+	                            "lugarRegistro": {
+	                                "pais": "MX",
+	                                "entidadFederativa": {
+	                                    "clave": "",
+	                                    "valor": ""
+	                                }
+	                            }   
+                        	}
 						}
 					}
 				],
@@ -1076,4 +1093,5 @@
 	}
 
 }
+
 
