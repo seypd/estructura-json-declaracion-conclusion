@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "COMPLETA",
-		"tipo": "CONCLUSION", //CONCLUSION ó CONCLUSIÓN
+		"tipo": "CONCLUSION",
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -806,7 +806,7 @@
 				"prestamo": [
 					{
 						"tipoOperacion": "AGREGAR",
-						"tipoBienDesc":"",//INMUEBLE, VEHICULO
+						"tipoBienDesc":"",
 						"duenoTitular": {
 							"tipoDuenoTitular": "FISICA",
 							"nombreTitular": "",
@@ -1095,8 +1095,4 @@
 		  "presento": false
 		}
 	}
-
 }
-
-
-
