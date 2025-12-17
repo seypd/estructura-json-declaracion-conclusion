@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "SIMPLIFICADA",
-		"tipo": "CONCLUSION", //CONCLUSION ó CONCLUSIÓN
+		"tipo": "CONCLUSION",
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -366,9 +366,7 @@
 		},
 		"fiscal": {
 			"presento": false,
-			"url": ""
+			"url": ""
 		}
 	}
-
 }
-
